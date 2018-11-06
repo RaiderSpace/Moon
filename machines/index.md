@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Our Hardware
-excerpt: "A List of Projects"
+title: Our Machines
+excerpt: "A List of our Hardware ( ͡° ͜ʖ ͡°)"
 comments: false
 ---
