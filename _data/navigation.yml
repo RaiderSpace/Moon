@@ -1,4 +1,6 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Machines
+  url: /machines/
+- title: Contact
+  url: /Contact/
