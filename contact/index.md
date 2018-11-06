@@ -8,4 +8,4 @@ comments: false
 
 You can email Mr. Kent at kent@funtonschools.org
 
-Piero's working on a submission form, but right now, hes trying to have the site not lose it's marbles.
+Piero says that hes working on a submission form, but right now, hes trying to have the site not lose it's marbles.
