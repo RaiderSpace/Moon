@@ -14,8 +14,8 @@ The Raider Space is Riverwood's Creative outlet for all
 * They cost a lot of $$$
 * what do i put here
 * aaaaaaaaaaa
-* **aaaaaaaaaaa
-* __*aaaaaaaaaaa
+<b> * aaaaaaaaaaa </b>
+<b> * AAAAAAAAAAA <b>
 * _aaaaaaaaaaaing intensifies
 
 ## Images
