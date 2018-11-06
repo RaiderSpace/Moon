@@ -9,8 +9,8 @@ tag:
 - sample
 - test
 - jekyll
-comments: false
-project: true
+comments: false #tells jekyll that this shouldn't go under the "blog" tab
+project: true #tells jekyll that this should go under the "machines" tab
 ---
 
 ## HTML Elements
