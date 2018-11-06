@@ -14,16 +14,28 @@ The Raider Space is Riverwood's Creative outlet for all
 * They cost a lot of $$$
 * what do i put here
 * aaaaaaaaaaa
-<b> * aaaaaaaaaaa </b>
-<b> * AAAAAAAAAAA <b>
-* _aaaaaaaaaaaing intensifies
+* aaaaaaaaaaaaaaaaaaaaa 
+* AAAAAAAAAAAAAAAAAAA
+* aaaaaaaaaaaing intensifies
 
 ## Images
 
-__*aaaaaaaaaaaaaaaaaaaaaa
+*aaaaaaaaaaaaaaaaaaaaaa
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Our Team
 
-__*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+## Contact
+
+do people even look at this stuff?
+
+no
+
+why?
+
+because piero codes so well that there aren't any problems
+
+You can email Mr. Kent at kent@funtonschools.org
