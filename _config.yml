@@ -1,14 +1,14 @@
 # Site
-title:              The RaiderSpace
+title:              studio 5900
 bio:                'The Riverwood Maker Space'
-description:        "The RaiderSpace is a creative outlet for all Riverwood Students"
+description:        "studio 5900 is a creative outlet for all Riverwood Students"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
 background:         'assets/img/webbackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://studio71-rics.github.io/
+url:                https://studio715900.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +40,7 @@ disqus_shortname:   raiderspace
 #email:
 twitter:            RiverwoodICS
 facebook:           RiverwoodICS
-github-url:         raiderspace
+github-url:         studio5900
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
