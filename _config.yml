@@ -1,14 +1,14 @@
 # Site
 title:              studio 5900
-bio:                'The Riverwood Maker Space'
-description:        "studio 5900 is a creative outlet for all Riverwood Students"
+bio:                'Riverwood's Maker Space'
+description:        "The Riader Maker Space is a creative outlet for all Riverwood Students"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
 background:         'assets/img/webbackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://studio5900.github.io/
+url:                https://raidermakerspace.github.io/
 
 # Jekyll
 permalink:          /:title/
